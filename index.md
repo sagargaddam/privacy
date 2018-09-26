@@ -62,6 +62,4 @@ When you access the Service by or through a mobile device, this Usage Data may i
  	the new Privacy Policy on this page. These changes are effective immediately after they are posted on
  	this page.
  	</p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
- 	me.	
-</body>
-</html>
+ 	me.
